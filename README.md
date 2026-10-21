@@ -2,7 +2,7 @@
 > Bu sayfa İngilizce ve Türkçedir. Türkçe bölüm için aşağıya ilerleyebilirsiniz.
 
 <p align="center">
-  <img src="assets/ui/branding/grisilith_title.png" alt="Grisilith" width="640">
+  <img src="grisilith_title.png" alt="Grisilith" width="640">
 </p>
 
 <p align="center">
