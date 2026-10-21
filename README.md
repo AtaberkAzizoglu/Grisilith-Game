@@ -32,23 +32,23 @@ Combine weapons, armor, items, and Tamgas to discover different ways to survive�
 
 **Prepare your build / Build’inizi hazırlayın**
 
-![Preset Manager — Build hazırlama](docs/media/preset-manager.png)
+![Preset Manager — Build hazırlama](media/preset-manager.png)
 
 **Choose your battleground / Savaş alanınızı seçin**
 
-![Run preparation — Başlangıç build’i ve harita seçimi](docs/media/run-preparation.png)
+![Run preparation — Başlangıç build’i ve harita seçimi](media/run-preparation.png)
 
 **Crolymnos Forest — Melee combat / Yakın dövüş**
 
-![Crolymnos Forest — Melee combat](docs/media/crolymnos-forest.png)
+![Crolymnos Forest — Melee combat](media/crolymnos-forest.png)
 
 **Vogtsweier Siege — Defend the walls / Surları savunun**
 
-![Vogtsweier Siege — Surların savunulması](docs/media/vogtsweier-siege.png)
+![Vogtsweier Siege — Surların savunulması](media/vogtsweier-siege.png)
 
 **Hollowgrave Depths — Magic and a boss encounter / Büyüler ve boss karşılaşması**
 
-![Hollowgrave Depths — Büyüler ve boss karşılaşması](docs/media/hollowgrave-depths.png)
+![Hollowgrave Depths — Büyüler ve boss karşılaşması](media/hollowgrave-depths.png)
 
 ## Open Beta
 
